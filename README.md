@@ -1,4 +1,5 @@
-<p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+Aarush+Here!;Python+|+PHP+|+JavaScript+Developer+|+SQL+|+MongoDB+Expert;Discord+Enthusiast"></a> </p>
+<p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+Aarush+Here!;Python+|+PHP+|+JavaScript+Developer;SQL+and+MongoDB+Expert;Discord+Enthusiast"></a> </p>
+
 
 
 <h3 align="center">👨‍💻 Python | PHP | JavaScript Developer</h3>
