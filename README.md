@@ -16,6 +16,9 @@
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://discord.gg/aarush_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aarush_01" height="30" width="40" /></a>
+  <a href="mailto:riyansarma76@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://cdn.discordapp.com/emojis/1198562741678510141.webp?size=128&quality=lossless" alt="riyansarma76@gmail.com" height="30" width="40"></a>
+  <a href="https://github.com/aarush0101" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/1198563935415193670.webp?size=128&quality=lossless" alt="aarush0101" height="30" width="40"></a>
+  <a href="https://ngmc.co/p/Riyan%20gamer6238" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/1198564824414687232.webp?size=128&quality=lossless" alt="Riyan gamer6238" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +30,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarush0101&show_icons=true&locale=en&layout=compact" alt="riyansarma76" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarush0101&show_icons=true&locale=en&layout=compact" alt="aarush0101" /></p>
