@@ -1,5 +1,6 @@
 <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+Aarush+Here!;Python+|+PHP+|+JavaScript+Developer+|+SQL+|+MongoDB+Expert;Discord+Enthusiast"></a> </p>
 
+
 <h3 align="center">👨‍💻 Python | PHP | JavaScript Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1185749294943313930/1198362424227663962/R.gif?ex=65bea0fa&is=65ac2bfa&hm=4818d6443da09590bbd05ba58265f324c033262f94868a03f882b24b8222d86c&">
