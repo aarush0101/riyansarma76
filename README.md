@@ -30,4 +30,4 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aarush0101&hide=shell,css,nsis&layout=compact"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aarush0101&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
