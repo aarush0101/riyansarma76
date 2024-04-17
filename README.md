@@ -1,22 +1,21 @@
 <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!+There,+Aarush+Here!;Python+|+PHP+|+JavaScript+Developer;SQL+and+MongoDB+Expert;Discord+Enthusiast"></a> </p>
 
-
-
 <h3 align="center">👨‍💻 Python | PHP | JavaScript Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1185749294943313930/1198362424227663962/R.gif?ex=65bea0fa&is=65ac2bfa&hm=4818d6443da09590bbd05ba58265f324c033262f94868a03f882b24b8222d86c&">
 
-- 🚀 Currently exploring the realms of **Python**, **PHP**, and **JavaScript**.
+- 🚀 Currently diving into **Python**, **PHP**, and **JavaScript**.
 
-- 🔧 Passionate about coding and learning new technologies.
+- 🔧 Passionate about coding and mastering new technologies.
 
-- 📫 How to reach me? 
-  - Reach me on Discord: `aarush_01`
+- 📫 Connect with me on Discord: `aarush_01`
+
+- 🚫 Note: I have many private projects, but fewer public repositories.
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://discord.gg/aarush_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aarush_01" height="30" width="40" /></a>
-  <a href="mailto:riyansarma76@gmail.com" target="blank" rel="noreferrer"><img align="center" src="https://cdn.discordapp.com/emojis/1198562741678510141.webp?size=128&quality=lossless" alt="riyansarma76@gmail.com" height="30" width="40"></a>
+  
   <a href="https://github.com/aarush0101" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/1198563935415193670.webp?size=128&quality=lossless" alt="aarush0101" height="30" width="40"></a>
   <a href="https://ngmc.co/p/Riyan%20gamer6238" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/1198564824414687232.webp?size=128&quality=lossless" alt="Riyan gamer6238" height="30" width="40"></a>
 </p>
