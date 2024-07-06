@@ -37,7 +37,7 @@
   
  ✌️ &emsp; Enjoys programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Loves writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me on discord  <b><a href='https://discord.com/users/' target="_blank">  <img src="https://img.shields.io/badge/Discord-7289DA?&style=social&logo=Discord&logoColor=black&" alt="Aarush" style="vertical-align: middle;" /></a></b><br/><br/>
+ 📧 &emsp; Reach me on discord  <b><a href='https://discord.com/users/906543610269401148' target="_blank">  <img src="https://img.shields.io/badge/Discord-7289DA?&style=social&logo=Discord&logoColor=black&" alt="Aarush" style="vertical-align: middle;" /></a></b><br/><br/>
 
 </p>
 
