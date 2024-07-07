@@ -1,6 +1,11 @@
 <a href="https://github.com/aarush0101" target="_blank">
+  <img align="left" src="https://wakatime.com/badge/user/46a78dbf-aa58-431c-8177-f4a79fee4859.svg?style=social" alt="WakaTime">
+</a>
+
+<a href="https://github.com/aarush0101" target="_blank">
   <img align="right" src="https://komarev.com/ghpvc/?username=aarush0101&label=Visitors&color=0e75b6&style=flat&color=ff69b4" alt="Profile visitor" />
 </a>
+
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
