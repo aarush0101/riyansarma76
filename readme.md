@@ -10,7 +10,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full stack web application developer> 」
+    「 I am a full stack developer> 」
     <br>
     <br>
   </samp>
@@ -36,6 +36,7 @@
  📧 &emsp; Reach me on discord: <b><a href='https://discord.com/users/' target="_blank">  <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" alt="Aarush "  /></a></b><br/><br/>
 
 </p>
+
 
 <br/>
 <br/>
