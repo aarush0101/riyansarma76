@@ -1,4 +1,4 @@
-<a href="https/github.com/aarush0101" target="_blank">
+<a href="https://github.com/aarush0101" target="_blank">
   <img align="right" src="https://komarev.com/ghpvc/?username=aarush0101&label=Visitors&color=0e75b6&style=flat&color=ff69b4" alt="Profile visitor" />
 </a>
 
