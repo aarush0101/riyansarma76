@@ -6,7 +6,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=aarush0101&label=Visitors&color=0e75b6&style=flat&color=ff69b4" alt="Profile visitor" />
 </a>
 
-
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/aarush0101">Aarush </a></b>
@@ -38,10 +37,9 @@
   
  ✌️ &emsp; Enjoys programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Loves writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me on discord: <b><a href='https://discord.com/users/' target="_blank">  <img src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" alt="Aarush "  /></a></b><br/><br/>
+ 📧 &emsp; Reach me on discord  <b><a href='https://discord.com/users/' target="_blank">  <img src="https://img.shields.io/badge/Discord-7289DA?&style=social&logo=Discord&logoColor=black&" alt="Aarush" style="vertical-align: middle;" /></a></b><br/><br/>
 
 </p>
-
 
 <br/>
 <br/>
